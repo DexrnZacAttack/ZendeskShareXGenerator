@@ -1,0 +1,2 @@
+# ZendeskShareXGenerator
+For educational purposes.
